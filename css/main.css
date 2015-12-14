@@ -1,0 +1,85 @@
+
+/*-------------------------------------------------- */
+/* Sticky Footer Stuff
+/*-------------------------------------------------- */
+
+html {
+  position: relative;
+  min-height: 100%;
+	
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  line-height: 60px; /* Vertically center the text there */
+  background-color: #f5f5f5;
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+
+}
+
+/*-------------------------------------------------- */
+/* Font Stuff
+/*-------------------------------------------------- */
+
+
+h1, h2, h3, h4 {
+	font-family: 'Andada', 'Palatino Linotype', 'Book Antiqua', 'Palatino', serif;
+	/* Andada is my serif font from GoogleFonts  */
+}
+
+body {
+	font-family: 'Hind Siliguri', 'Helvetica', 'Trebuchet MS', sans-serif;
+	/* Hind Siliguri is my san-serif font from GoogleFonts  */
+}
+
+
+/*--------------------------------------------------------- */
+/* Color Stuff
+/*
+/* color #16657F   dark blue  - MAIN TEXT					*/
+/* color #79DDFF   light blue 								*/
+/* color #2DC9FF   turquoise  - BODY background				*/
+/* color #53747F   dark grey  - NAV and FOOTER background	*/
+/* color #24A1CC   blue       - CARD background color		*/
+/*-------------------------------------------------------- 	*/
+
+
+body {
+	color: #16657F;
+	background-color: #2DC9FF;
+}
+
+.navbar, .footer {
+	background-color: #53747F;
+}
+
+.card-mybgcolor {
+	color: black;
+	background-color: #24A1CC;
+}
+
+
+/*--------------------------------------------------------- */
+/* Custom page CSS
+/*--------------------------------------------------------- */
+
+body > .container {
+  padding: 60px 15px 0;
+}
+
+.card-space {
+	padding-top: 20px;
+	padding-bottom: 20px
+}
+

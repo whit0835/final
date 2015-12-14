@@ -1,0 +1,25 @@
+{
+  "name": "demo",
+  "authors": [
+    "whit0835 <whit0835@algonquinlive.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha",
+    "jquery": "~2.1.4"
+  }
+}
