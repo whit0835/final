@@ -90,3 +90,7 @@ body > .container {
 	padding-bottom: 20px
 }
 
+.minSize {
+	min-width: 200px;
+}
+

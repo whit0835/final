@@ -1,0 +1,7 @@
+
+
+- The Projects page expands slightly relative to the other 2 pages. This seems to happen when a fourth card is added. This expansion makes the Nav menu look as if it shifts (bad). I can't stop it.
+
+- The cards, card deck gave me problems. As the descriptions differ in length, the card deck leaves empty spaces at varying screen sizes (Grrrrr.)
+
+- I could have spent many more hours fiddling with Bootstrap. I figure it will take a lot of fiddling time to really get good with Bootstrap.
