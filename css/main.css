@@ -60,15 +60,22 @@ body {
 	background-color: #2DC9FF;
 }
 
-.navbar, .footer {
-	background-color: #53747F;
-}
 
 .card-mybgcolor {
 	color: black;
 	background-color: #24A1CC;
 }
 
+
+.navbar, .footer {
+	background-color: #53747F;
+}
+
+
+.navbar-brand {
+	font-size: 1.3rem;
+	padding-right: 20px;
+}
 
 /*--------------------------------------------------------- */
 /* Custom page CSS
